@@ -1,6 +1,4 @@
-//AliceZU3A1Q5
 //Alice Zhou
-//For: Mrs. Harris
 //May 22nd, 2018
 //Fibonacci’s rabbits: this program creates a vivid illustration of the famous Fibonacci sequence.
 //Revision: None
